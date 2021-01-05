@@ -5,7 +5,7 @@
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
-  background-color: #E7A7D2;
+  background-color: #A4D5ED;
   padding: 30px 0;
 }
 
@@ -26,15 +26,15 @@ section.hora-de-estudo {
 }
 
 .is-primary {
-  background-color: #E7A7D2 !important;
+  background-color: #A4D5ED !important;
 }
 
 .notification.is-warning {
-  background-color: #CCC2C0;
+  background-color: #E8D881;
 }
 
 .is-primary .columns div {
-  background: #E7A7D2;
+  background: #A4D5ED;
   color: white;
 }
 
@@ -115,7 +115,7 @@ h1 span {
 .content .legenda h6:first-child {
   /* font-weight: 600 !important; */
   background-color: transparent;
-  color: #942972;
+  color: #0074AE;
   margin-bottom: 1rem;
   padding: 0 10px;
   text-align: left;
@@ -124,7 +124,7 @@ h1 span {
 .content .legenda h6 {
   font-weight: 400 !important;
   color: #fff;
-  background-color: #942972;
+  background-color: #0074AE;
   padding: 10px;
   border-radius: 3px;
 }
@@ -250,5 +250,5 @@ textarea {
 }
 
 .has-text-primary {
-  color: #942972 !important;
+  color: #0074AE !important;
 }
