@@ -234,7 +234,7 @@ textarea {
 }
 
 .table tr.is-selected {
-  background-color: #00A65 !important;
+  background-color: #0074AE !important;
   color: #fff;
 }
 
@@ -251,4 +251,11 @@ textarea {
 
 .has-text-primary {
   color: #0074AE !important;
+}
+
+.table td.is-selected, .table th.is-selected {
+  background-color: #0074AE;
+  color: #fff;
+  display: table-cell;
+  vertical-align: middle;
 }
