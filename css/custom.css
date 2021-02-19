@@ -5,7 +5,7 @@
 body {
   font-family: 'Work Sans', sans-serif;
   font-size: 16px;
-  background-color: #A4D5ED;
+  background-color: #A0D0F1;
   padding: 30px 0;
 }
 
@@ -26,15 +26,15 @@ section.hora-de-estudo {
 }
 
 .is-primary {
-  background-color: #A4D5ED !important;
+  background-color: #A0D0F1 !important;
 }
 
 .notification.is-warning {
-  background-color: #E8D881;
+  background-color: #7FDCF7;
 }
 
 .is-primary .columns div {
-  background: #A4D5ED;
+  background: #A0D0F1;
   color: white;
 }
 
@@ -115,7 +115,7 @@ h1 span {
 .content .legenda h6:first-child {
   /* font-weight: 600 !important; */
   background-color: transparent;
-  color: #0074AE;
+  color: #2484C6;
   margin-bottom: 1rem;
   padding: 0 10px;
   text-align: left;
@@ -124,7 +124,7 @@ h1 span {
 .content .legenda h6 {
   font-weight: 400 !important;
   color: #fff;
-  background-color: #0074AE;
+  background-color: #2484C6;
   padding: 10px;
   border-radius: 3px;
 }
@@ -234,7 +234,7 @@ textarea {
 }
 
 .table tr.is-selected {
-  background-color: #0074AE !important;
+  background-color: #2484C6 !important;
   color: #fff;
 }
 
@@ -250,11 +250,11 @@ textarea {
 }
 
 .has-text-primary {
-  color: #0074AE !important;
+  color: #2484C6 !important;
 }
 
 .table td.is-selected, .table th.is-selected {
-  background-color: #0074AE;
+  background-color: #2484C6;
   color: #fff;
   display: table-cell;
   vertical-align: middle;
